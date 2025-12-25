@@ -1,0 +1,47 @@
+name: Fetch NBRO Air Quality
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes (UTC)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-nbro-aq
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch data
+        run: |
+          python scripts/fetch_nbro_aq.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git status --porcelain | grep -q .; then
+            git add data/latest.json
+            git commit -m "Update NBRO air quality data"
+            git push
+          else
+            echo "No changes to commit."
+          fi
