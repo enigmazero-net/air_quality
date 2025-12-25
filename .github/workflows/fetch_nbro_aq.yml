@@ -39,7 +39,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if git status --porcelain | grep -q .; then
-            git add data/latest.json
+            git add air_quality/data/latest.json
             git commit -m "Update NBRO air quality data"
             git push
           else

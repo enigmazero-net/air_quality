@@ -7,7 +7,8 @@ from typing import Any, Dict, List, Optional
 import requests
 
 ENDPOINT = "https://aq.nbro.gov.lk/invoker.php"
-OUT_FILE = os.path.join("data", "latest.json")
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUT_FILE = os.path.join(REPO_ROOT, "air_quality", "data", "latest.json")
 
 
 # SL AQI bands as shown on NBRO AQ site (PM2.5 µg/m3 to AQI bands)
