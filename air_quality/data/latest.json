@@ -1,55 +1,55 @@
 {
   "count": 45,
-  "fetched_at_utc": "2026-01-19T09:37:03.743803Z",
+  "fetched_at_utc": "2026-01-19T09:59:27.829369Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
-      "co2": 408.04,
+      "co2": 419.98,
       "description": "AQANUMET1",
       "latitude": 8.33356,
       "longitude": 80.41497,
       "meta_device_id": "NEAANU00000001",
       "name": "Anuradhapura",
-      "pm10": 35203.0,
-      "pm100": 18432.0,
-      "pm25": 4912.0,
+      "pm10": 30.0,
+      "pm100": 54.0,
+      "pm25": 43.0,
       "pm25_band_range": [
-        250.1,
-        null
+        25.1,
+        50.0
       ],
-      "sl_aqi_est": 301,
-      "sl_aqi_label": "Hazardous",
+      "sl_aqi_est": 86,
+      "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
-        301,
-        500
+        51,
+        100
       ],
-      "temperature": 35.98,
-      "timestamp": 1768815317264,
-      "timestamp_iso_utc": "2026-01-19T09:35:17.264000Z"
+      "temperature": 36.32,
+      "timestamp": 1768816698950,
+      "timestamp_iso_utc": "2026-01-19T09:58:18.950000Z"
     },
     {
-      "co2": 453.79,
+      "co2": 484.67,
       "description": "MET Department, Badulla",
       "latitude": 6.983344,
       "longitude": 81.04643,
       "meta_device_id": "aq02",
       "name": "Badulla",
-      "pm10": 34.0,
-      "pm100": 67.0,
-      "pm25": 55.0,
+      "pm10": 33.0,
+      "pm100": 66.0,
+      "pm25": 52.0,
       "pm25_band_range": [
         50.1,
         75.0
       ],
-      "sl_aqi_est": 111,
+      "sl_aqi_est": 105,
       "sl_aqi_label": "Unhealthy for Sensitive Groups",
       "sl_aqi_range": [
         101,
         150
       ],
-      "temperature": 26.79,
-      "timestamp": 1768815367981,
-      "timestamp_iso_utc": "2026-01-19T09:36:07.981000Z"
+      "temperature": 26.23,
+      "timestamp": 1768816729620,
+      "timestamp_iso_utc": "2026-01-19T09:58:49.620000Z"
     },
     {
       "co2": 495.65,
@@ -268,28 +268,28 @@
       "timestamp_iso_utc": "2024-11-07T02:29:33.207000Z"
     },
     {
-      "co2": 462.77,
+      "co2": 474.67,
       "description": "aq",
       "latitude": 6.905964,
       "longitude": 79.87169,
       "meta_device_id": "NEA80000456",
       "name": "Colombo 07",
       "pm10": 31.0,
-      "pm100": 63.0,
-      "pm25": 51.0,
+      "pm100": 66.0,
+      "pm25": 50.0,
       "pm25_band_range": [
-        50.1,
-        75.0
+        25.1,
+        50.0
       ],
-      "sl_aqi_est": 103,
-      "sl_aqi_label": "Unhealthy for Sensitive Groups",
+      "sl_aqi_est": 100,
+      "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
-        101,
-        150
+        51,
+        100
       ],
-      "temperature": 33.82,
-      "timestamp": 1768815370102,
-      "timestamp_iso_utc": "2026-01-19T09:36:10.102000Z"
+      "temperature": 33.97,
+      "timestamp": 1768816721816,
+      "timestamp_iso_utc": "2026-01-19T09:58:41.816000Z"
     },
     {
       "co2": 4996.0,
@@ -299,21 +299,21 @@
       "meta_device_id": "Dav00002",
       "name": "Dambulla",
       "pm10": 30.0,
-      "pm100": 61.0,
-      "pm25": 49.0,
+      "pm100": 58.0,
+      "pm25": 48.0,
       "pm25_band_range": [
         25.1,
         50.0
       ],
-      "sl_aqi_est": 98,
+      "sl_aqi_est": 96,
       "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
         51,
         100
       ],
-      "temperature": 36.44,
-      "timestamp": 1768815368665,
-      "timestamp_iso_utc": "2026-01-19T09:36:08.665000Z"
+      "temperature": 35.71,
+      "timestamp": 1768816689215,
+      "timestamp_iso_utc": "2026-01-19T09:58:09.215000Z"
     },
     {
       "co2": 849.98,
@@ -359,33 +359,33 @@
         151,
         200
       ],
-      "temperature": 34.76,
-      "timestamp": 1768815371756,
-      "timestamp_iso_utc": "2026-01-19T09:36:11.756000Z"
+      "temperature": 34.74,
+      "timestamp": 1768816692756,
+      "timestamp_iso_utc": "2026-01-19T09:58:12.756000Z"
     },
     {
-      "co2": 446.88,
+      "co2": 452.75,
       "description": "edotco001",
       "latitude": 6.0273466,
       "longitude": 80.21944,
       "meta_device_id": "Edotco00001",
       "name": "Galle Fort",
       "pm10": 42.0,
-      "pm100": 76.0,
-      "pm25": 69.0,
+      "pm100": 75.0,
+      "pm25": 67.0,
       "pm25_band_range": [
         50.1,
         75.0
       ],
-      "sl_aqi_est": 138,
+      "sl_aqi_est": 134,
       "sl_aqi_label": "Unhealthy for Sensitive Groups",
       "sl_aqi_range": [
         101,
         150
       ],
-      "temperature": 32.96,
-      "timestamp": 1768815373059,
-      "timestamp_iso_utc": "2026-01-19T09:36:13.059000Z"
+      "temperature": 33.16,
+      "timestamp": 1768816694064,
+      "timestamp_iso_utc": "2026-01-19T09:58:14.064000Z"
     },
     {
       "co2": 4996.0,
@@ -419,7 +419,7 @@
       "meta_device_id": "AQJAFFNAMET00001",
       "name": "Jaffna",
       "pm10": 0.0,
-      "pm100": 0.0,
+      "pm100": 1.0,
       "pm25": 0.0,
       "pm25_band_range": [
         0.0,
@@ -431,33 +431,33 @@
         0,
         50
       ],
-      "temperature": 29.66,
-      "timestamp": 1768815370636,
-      "timestamp_iso_utc": "2026-01-19T09:36:10.636000Z"
+      "temperature": 28.96,
+      "timestamp": 1768816722016,
+      "timestamp_iso_utc": "2026-01-19T09:58:42.016000Z"
     },
     {
-      "co2": 432.89,
+      "co2": 430.92,
       "description": "AQJAFFNA0125",
       "latitude": 9.737238,
       "longitude": 80.019455,
       "meta_device_id": "JAFPRIVAT0001",
       "name": "Jaffna",
-      "pm10": 31.0,
-      "pm100": 55.0,
-      "pm25": 44.0,
+      "pm10": 3180.0,
+      "pm100": 3180.0,
+      "pm25": 3180.0,
       "pm25_band_range": [
-        25.1,
-        50.0
+        250.1,
+        null
       ],
-      "sl_aqi_est": 88,
-      "sl_aqi_label": "Moderate",
+      "sl_aqi_est": 301,
+      "sl_aqi_label": "Hazardous",
       "sl_aqi_range": [
-        51,
-        100
+        301,
+        500
       ],
-      "temperature": 33.88,
-      "timestamp": 1768815372028,
-      "timestamp_iso_utc": "2026-01-19T09:36:12.028000Z"
+      "temperature": 33.82,
+      "timestamp": 1768816693091,
+      "timestamp_iso_utc": "2026-01-19T09:58:13.091000Z"
     },
     {
       "co2": 454.84,
@@ -652,52 +652,52 @@
       "timestamp_iso_utc": "2023-01-03T17:37:23.985000Z"
     },
     {
-      "co2": 414.96,
+      "co2": 414.93,
       "description": "AQKOLONNAWA0",
       "latitude": 6.9326177,
       "longitude": 79.8915,
       "meta_device_id": "COL0000003",
       "name": "Kolonnawa",
-      "pm10": 37.0,
-      "pm100": 69.0,
-      "pm25": 57.0,
+      "pm10": 38.0,
+      "pm100": 68.0,
+      "pm25": 56.0,
       "pm25_band_range": [
         50.1,
         75.0
       ],
-      "sl_aqi_est": 115,
+      "sl_aqi_est": 113,
       "sl_aqi_label": "Unhealthy for Sensitive Groups",
       "sl_aqi_range": [
         101,
         150
       ],
-      "temperature": 30.02,
-      "timestamp": 1768815321313,
-      "timestamp_iso_utc": "2026-01-19T09:35:21.313000Z"
+      "temperature": 29.95,
+      "timestamp": 1768816702437,
+      "timestamp_iso_utc": "2026-01-19T09:58:22.437000Z"
     },
     {
-      "co2": 776.23,
+      "co2": 417.97,
       "description": "AQSJKOTTE",
       "latitude": 6.9060564,
       "longitude": 79.90488,
       "meta_device_id": "COL000001",
       "name": "Kotte",
-      "pm10": 47.0,
-      "pm100": 95.0,
-      "pm25": 79.0,
+      "pm10": 44.0,
+      "pm100": 90.0,
+      "pm25": 71.0,
       "pm25_band_range": [
-        75.1,
-        150.0
+        50.1,
+        75.0
       ],
-      "sl_aqi_est": 154,
-      "sl_aqi_label": "Unhealthy",
+      "sl_aqi_est": 142,
+      "sl_aqi_label": "Unhealthy for Sensitive Groups",
       "sl_aqi_range": [
-        151,
-        200
+        101,
+        150
       ],
-      "temperature": 35.93,
-      "timestamp": 1768815316471,
-      "timestamp_iso_utc": "2026-01-19T09:35:16.471000Z"
+      "temperature": 35.3,
+      "timestamp": 1768816697416,
+      "timestamp_iso_utc": "2026-01-19T09:58:17.416000Z"
     },
     {
       "co2": 4996.0,
@@ -724,28 +724,28 @@
       "timestamp_iso_utc": "2025-12-26T08:50:29.820000Z"
     },
     {
-      "co2": 4450.65,
+      "co2": 4986.05,
       "description": "AQmannar22",
       "latitude": 8.988006,
       "longitude": 79.907524,
       "meta_device_id": "NEA23345g5",
       "name": "Mannar",
-      "pm10": 24.0,
-      "pm100": 49.0,
-      "pm25": 40.0,
+      "pm10": 26.0,
+      "pm100": 52.0,
+      "pm25": 44.0,
       "pm25_band_range": [
         25.1,
         50.0
       ],
-      "sl_aqi_est": 80,
+      "sl_aqi_est": 88,
       "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
         51,
         100
       ],
-      "temperature": 30.18,
-      "timestamp": 1768815373756,
-      "timestamp_iso_utc": "2026-01-19T09:36:13.756000Z"
+      "temperature": 29.97,
+      "timestamp": 1768816694764,
+      "timestamp_iso_utc": "2026-01-19T09:58:14.764000Z"
     },
     {
       "co2": 653.78,
@@ -778,22 +778,22 @@
       "longitude": 81.315315,
       "meta_device_id": "verit02",
       "name": "Monaragala",
-      "pm10": 33.0,
-      "pm100": 66.0,
-      "pm25": 55.0,
+      "pm10": 32.0,
+      "pm100": 67.0,
+      "pm25": 51.0,
       "pm25_band_range": [
         50.1,
         75.0
       ],
-      "sl_aqi_est": 111,
+      "sl_aqi_est": 103,
       "sl_aqi_label": "Unhealthy for Sensitive Groups",
       "sl_aqi_range": [
         101,
         150
       ],
-      "temperature": 32.41,
-      "timestamp": 1768815358171,
-      "timestamp_iso_utc": "2026-01-19T09:35:58.171000Z"
+      "temperature": 31.63,
+      "timestamp": 1768816679178,
+      "timestamp_iso_utc": "2026-01-19T09:57:59.178000Z"
     },
     {
       "co2": 4996.0,
@@ -802,22 +802,22 @@
       "longitude": 80.81918,
       "meta_device_id": "NEAMULL000001",
       "name": "Mullaitivu",
-      "pm10": 7.0,
-      "pm100": 13.0,
-      "pm25": 12.0,
+      "pm10": 10.0,
+      "pm100": 20.0,
+      "pm25": 17.0,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi_est": 24,
+      "sl_aqi_est": 34,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 32.12,
-      "timestamp": 1768815373552,
-      "timestamp_iso_utc": "2026-01-19T09:36:13.552000Z"
+      "temperature": 31.8,
+      "timestamp": 1768816728098,
+      "timestamp_iso_utc": "2026-01-19T09:58:48.098000Z"
     },
     {
       "co2": 408.05,
@@ -898,22 +898,22 @@
       "longitude": 81.04998,
       "meta_device_id": "POL0000021",
       "name": "Polonnaruwa",
-      "pm10": 27.0,
-      "pm100": 50.0,
-      "pm25": 41.0,
+      "pm10": 31.0,
+      "pm100": 60.0,
+      "pm25": 49.0,
       "pm25_band_range": [
         25.1,
         50.0
       ],
-      "sl_aqi_est": 82,
+      "sl_aqi_est": 98,
       "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
         51,
         100
       ],
-      "temperature": 33.66,
-      "timestamp": 1768815366636,
-      "timestamp_iso_utc": "2026-01-19T09:36:06.636000Z"
+      "temperature": 33.53,
+      "timestamp": 1768816728382,
+      "timestamp_iso_utc": "2026-01-19T09:58:48.382000Z"
     },
     {
       "co2": 4996.0,
@@ -940,28 +940,28 @@
       "timestamp_iso_utc": "2025-07-20T14:42:16.517000Z"
     },
     {
-      "co2": 428.92,
+      "co2": 423.9,
       "description": "MET Department, Puttalam",
       "latitude": 8.028199,
       "longitude": 79.84147,
       "meta_device_id": "NEA8000006",
       "name": "Puttalam",
-      "pm10": 34.0,
-      "pm100": 59.0,
-      "pm25": 49.0,
+      "pm10": 70.0,
+      "pm100": 81.0,
+      "pm25": 81.0,
       "pm25_band_range": [
-        25.1,
-        50.0
+        75.1,
+        150.0
       ],
-      "sl_aqi_est": 98,
-      "sl_aqi_label": "Moderate",
+      "sl_aqi_est": 155,
+      "sl_aqi_label": "Unhealthy",
       "sl_aqi_range": [
-        51,
-        100
+        151,
+        200
       ],
-      "temperature": 31.36,
-      "timestamp": 1768815373979,
-      "timestamp_iso_utc": "2026-01-19T09:36:13.979000Z"
+      "temperature": 30.83,
+      "timestamp": 1768816694518,
+      "timestamp_iso_utc": "2026-01-19T09:58:14.518000Z"
     },
     {
       "co2": 2911.42,
@@ -995,21 +995,21 @@
       "meta_device_id": "NEA8000034",
       "name": "Trincomalee",
       "pm10": 22.0,
-      "pm100": 43.0,
-      "pm25": 36.0,
+      "pm100": 45.0,
+      "pm25": 38.0,
       "pm25_band_range": [
         25.1,
         50.0
       ],
-      "sl_aqi_est": 72,
+      "sl_aqi_est": 76,
       "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
         51,
         100
       ],
-      "temperature": 31.22,
-      "timestamp": 1768815321107,
-      "timestamp_iso_utc": "2026-01-19T09:35:21.107000Z"
+      "temperature": 31.04,
+      "timestamp": 1768816702245,
+      "timestamp_iso_utc": "2026-01-19T09:58:22.245000Z"
     },
     {
       "co2": 4996.0,
