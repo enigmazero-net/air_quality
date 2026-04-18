@@ -1,6 +1,35 @@
 {
-  "count": 0,
-  "fetched_at_utc": "2026-04-18T06:48:55.846962Z",
+  "count": 1,
+  "fetched_at_utc": "2026-04-18T07:48:58.499501Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
-  "stations": []
+  "stations": [
+    {
+      "co2": -1.0,
+      "description": "Dambulla air quality sensor",
+      "latitude": 7.862204,
+      "longitude": 80.64585,
+      "meta_device_id": "Dav00002",
+      "name": "Dambulla",
+      "now_cast": 18.6261,
+      "now_cast_timestamp": 1776317400000,
+      "pm10": 5.26531,
+      "pm100": 7.26531,
+      "pm25": 6.71248,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 13.0,
+      "sl_aqi_est": 13,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": 40.44,
+      "timestamp": 1776493800000,
+      "timestamp_iso_utc": "2026-04-18T06:30:00Z",
+      "us_aqi": 65.0
+    }
+  ]
 }
