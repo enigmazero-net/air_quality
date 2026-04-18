@@ -1,6 +1,6 @@
 {
-  "count": 1,
-  "fetched_at_utc": "2026-04-18T11:05:52.917548Z",
+  "count": 2,
+  "fetched_at_utc": "2026-04-18T11:47:03.221023Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
@@ -12,24 +12,52 @@
       "name": "Dambulla",
       "now_cast": 18.6261,
       "now_cast_timestamp": 1776317400000,
-      "pm10": 7.13208,
-      "pm100": 9.88679,
-      "pm25": 9.25446,
+      "pm10": 6.0,
+      "pm100": 8.35294,
+      "pm25": 7.6125,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 18.0,
-      "sl_aqi_est": 19,
+      "sl_aqi": 15.0,
+      "sl_aqi_est": 15,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 40.6626,
-      "timestamp": 1776504600000,
-      "timestamp_iso_utc": "2026-04-18T09:30:00Z",
+      "temperature": 40.1678,
+      "timestamp": 1776508200000,
+      "timestamp_iso_utc": "2026-04-18T10:30:00Z",
       "us_aqi": 65.0
+    },
+    {
+      "co2": -1.0,
+      "description": "Nallur air quality sensor",
+      "latitude": 9.674958,
+      "longitude": 80.02924,
+      "meta_device_id": "NALLUR0000211",
+      "name": "Nallur ",
+      "now_cast": 10.3594,
+      "now_cast_timestamp": 1776317400000,
+      "pm10": 5.44,
+      "pm100": 8.28,
+      "pm25": 7.41949,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 15.0,
+      "sl_aqi_est": 15,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": -127.0,
+      "timestamp": 1776508200000,
+      "timestamp_iso_utc": "2026-04-18T10:30:00Z",
+      "us_aqi": 43.0
     }
   ]
 }
