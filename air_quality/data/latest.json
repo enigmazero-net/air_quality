@@ -1,6 +1,6 @@
 {
   "count": 2,
-  "fetched_at_utc": "2026-04-19T07:47:36.504141Z",
+  "fetched_at_utc": "2026-04-19T08:37:18.768392Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
@@ -10,26 +10,26 @@
       "longitude": 80.64585,
       "meta_device_id": "Dav00002",
       "name": "Dambulla",
-      "now_cast": 14.2502,
-      "now_cast_timestamp": 1776580200000,
-      "pm10": 39.5741,
-      "pm100": 52.3148,
-      "pm25": 44.1473,
+      "now_cast": 29.3586,
+      "now_cast_timestamp": 1776583800000,
+      "pm10": 14.9038,
+      "pm100": 19.9231,
+      "pm25": 18.4371,
       "pm25_band_range": [
-        25.1,
-        50.0
+        0.0,
+        25.0
       ],
-      "sl_aqi": 88.0,
-      "sl_aqi_est": 88,
-      "sl_aqi_label": "Moderate",
+      "sl_aqi": 36.0,
+      "sl_aqi_est": 37,
+      "sl_aqi_label": "Good",
       "sl_aqi_range": [
-        51,
-        100
+        0,
+        50
       ],
-      "temperature": 40.3894,
-      "timestamp": 1776580200000,
-      "timestamp_iso_utc": "2026-04-19T06:30:00Z",
-      "us_aqi": 55.0
+      "temperature": 41.8271,
+      "timestamp": 1776583800000,
+      "timestamp_iso_utc": "2026-04-19T07:30:00Z",
+      "us_aqi": 87.0
     },
     {
       "co2": -1.0,
@@ -38,26 +38,26 @@
       "longitude": 80.02924,
       "meta_device_id": "NALLUR0000211",
       "name": "Nallur ",
-      "now_cast": 9.46215,
-      "now_cast_timestamp": 1776580200000,
-      "pm10": 15.4912,
-      "pm100": 24.4386,
-      "pm25": 21.2291,
+      "now_cast": 15.4228,
+      "now_cast_timestamp": 1776583800000,
+      "pm10": 12.3469,
+      "pm100": 20.2653,
+      "pm25": 17.4383,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 42.0,
-      "sl_aqi_est": 42,
+      "sl_aqi": 34.0,
+      "sl_aqi_est": 35,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
       "temperature": -127.0,
-      "timestamp": 1776580200000,
-      "timestamp_iso_utc": "2026-04-19T06:30:00Z",
-      "us_aqi": 39.0
+      "timestamp": 1776583800000,
+      "timestamp_iso_utc": "2026-04-19T07:30:00Z",
+      "us_aqi": 58.0
     }
   ]
 }
