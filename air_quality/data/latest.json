@@ -1,6 +1,6 @@
 {
   "count": 3,
-  "fetched_at_utc": "2026-04-19T14:07:58.528326Z",
+  "fetched_at_utc": "2026-04-19T14:56:19.820196Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
@@ -10,29 +10,29 @@
       "longitude": 80.64585,
       "meta_device_id": "Dav00002",
       "name": "Dambulla",
-      "now_cast": 20.3091,
-      "now_cast_timestamp": 1776601800000,
-      "pm10": 12.1837,
-      "pm100": 16.8367,
-      "pm25": 15.2386,
+      "now_cast": 17.7745,
+      "now_cast_timestamp": 1776605400000,
+      "pm10": 16.1754,
+      "pm100": 21.4737,
+      "pm25": 19.7398,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 30.0,
-      "sl_aqi_est": 30,
+      "sl_aqi": 39.0,
+      "sl_aqi_est": 39,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 33.9449,
-      "timestamp": 1776601800000,
-      "timestamp_iso_utc": "2026-04-19T12:30:00Z",
-      "us_aqi": 68.0
+      "temperature": 32.9975,
+      "timestamp": 1776605400000,
+      "timestamp_iso_utc": "2026-04-19T13:30:00Z",
+      "us_aqi": 63.0
     },
     {
-      "co2": 424.953,
+      "co2": 426.34,
       "description": "Kohuwla",
       "latitude": 6.870283,
       "longitude": 79.8771,
@@ -40,23 +40,23 @@
       "name": "Kohuwla ",
       "now_cast": 6.60764,
       "now_cast_timestamp": 1776317400000,
-      "pm10": 5.48077,
-      "pm100": 8.26923,
-      "pm25": 7.10106,
+      "pm10": 5.93103,
+      "pm100": 8.82759,
+      "pm25": 7.77406,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 14.0,
-      "sl_aqi_est": 14,
+      "sl_aqi": 15.0,
+      "sl_aqi_est": 16,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
       "temperature": -127.0,
-      "timestamp": 1776601800000,
-      "timestamp_iso_utc": "2026-04-19T12:30:00Z",
+      "timestamp": 1776605400000,
+      "timestamp_iso_utc": "2026-04-19T13:30:00Z",
       "us_aqi": 28.0
     },
     {
@@ -66,26 +66,26 @@
       "longitude": 80.02924,
       "meta_device_id": "NALLUR0000211",
       "name": "Nallur ",
-      "now_cast": 18.2938,
-      "now_cast_timestamp": 1776601800000,
-      "pm10": 11.4483,
-      "pm100": 18.3448,
-      "pm25": 16.1942,
+      "now_cast": 17.2461,
+      "now_cast_timestamp": 1776605400000,
+      "pm10": 12.5263,
+      "pm100": 19.2105,
+      "pm25": 17.4639,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 32.0,
-      "sl_aqi_est": 32,
+      "sl_aqi": 34.0,
+      "sl_aqi_est": 35,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
       "temperature": -127.0,
-      "timestamp": 1776601800000,
-      "timestamp_iso_utc": "2026-04-19T12:30:00Z",
-      "us_aqi": 64.0
+      "timestamp": 1776605400000,
+      "timestamp_iso_utc": "2026-04-19T13:30:00Z",
+      "us_aqi": 62.0
     }
   ]
 }
