@@ -1,10 +1,10 @@
 {
   "count": 4,
-  "fetched_at_utc": "2026-04-20T08:37:37.031417Z",
+  "fetched_at_utc": "2026-04-20T10:20:54.295652Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
-      "co2": 417.907,
+      "co2": 417.791,
       "description": "Badulla",
       "latitude": 6.990113,
       "longitude": 81.05676,
@@ -12,23 +12,23 @@
       "name": "Badulla ",
       "now_cast": 4.1517,
       "now_cast_timestamp": 1776317400000,
-      "pm10": 20.0556,
-      "pm100": 28.463,
-      "pm25": 25.2824,
+      "pm10": 17.0526,
+      "pm100": 25.5263,
+      "pm25": 22.6515,
       "pm25_band_range": [
-        25.1,
-        50.0
+        0.0,
+        25.0
       ],
-      "sl_aqi": 50.0,
-      "sl_aqi_est": 51,
-      "sl_aqi_label": "Moderate",
+      "sl_aqi": 45.0,
+      "sl_aqi_est": 45,
+      "sl_aqi_label": "Good",
       "sl_aqi_range": [
-        51,
-        100
+        0,
+        50
       ],
-      "temperature": 33.4891,
-      "timestamp": 1776670200000,
-      "timestamp_iso_utc": "2026-04-20T07:30:00Z",
+      "temperature": 31.9763,
+      "timestamp": 1776673800000,
+      "timestamp_iso_utc": "2026-04-20T08:30:00Z",
       "us_aqi": 17.0
     },
     {
@@ -38,54 +38,54 @@
       "longitude": 80.64585,
       "meta_device_id": "Dav00002",
       "name": "Dambulla",
-      "now_cast": 19.5751,
-      "now_cast_timestamp": 1776670200000,
-      "pm10": 31.1897,
-      "pm100": 56.7241,
-      "pm25": 47.0788,
+      "now_cast": 32.9523,
+      "now_cast_timestamp": 1776673800000,
+      "pm10": 22.2083,
+      "pm100": 39.5417,
+      "pm25": 31.8688,
       "pm25_band_range": [
         25.1,
         50.0
       ],
-      "sl_aqi": 94.0,
-      "sl_aqi_est": 94,
+      "sl_aqi": 64.0,
+      "sl_aqi_est": 64,
       "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
         51,
         100
       ],
-      "temperature": 40.9736,
-      "timestamp": 1776670200000,
-      "timestamp_iso_utc": "2026-04-20T07:30:00Z",
-      "us_aqi": 67.0
+      "temperature": 41.4908,
+      "timestamp": 1776673800000,
+      "timestamp_iso_utc": "2026-04-20T08:30:00Z",
+      "us_aqi": 95.0
     },
     {
-      "co2": 590.856,
+      "co2": 645.904,
       "description": "Kohuwla",
       "latitude": 6.870283,
       "longitude": 79.8771,
       "meta_device_id": "kohu01",
       "name": "Kohuwla ",
-      "now_cast": 6.18658,
-      "now_cast_timestamp": 1776670200000,
-      "pm10": 1.0,
-      "pm100": 1.77778,
-      "pm25": 1.33929,
+      "now_cast": 3.78269,
+      "now_cast_timestamp": 1776673800000,
+      "pm10": 0.958333,
+      "pm100": 1.29167,
+      "pm25": 1.18694,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 3.0,
-      "sl_aqi_est": 3,
+      "sl_aqi": 2.0,
+      "sl_aqi_est": 2,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
       "temperature": -127.0,
-      "timestamp": 1776670200000,
-      "timestamp_iso_utc": "2026-04-20T07:30:00Z",
-      "us_aqi": 25.0
+      "timestamp": 1776673800000,
+      "timestamp_iso_utc": "2026-04-20T08:30:00Z",
+      "us_aqi": 15.0
     },
     {
       "co2": -1.0,
@@ -94,26 +94,26 @@
       "longitude": 80.02924,
       "meta_device_id": "NALLUR0000211",
       "name": "Nallur ",
-      "now_cast": 25.8584,
-      "now_cast_timestamp": 1776670200000,
-      "pm10": 9.3,
-      "pm100": 13.74,
-      "pm25": 12.2841,
+      "now_cast": 19.0716,
+      "now_cast_timestamp": 1776673800000,
+      "pm10": 9.72727,
+      "pm100": 14.5091,
+      "pm25": 13.5518,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 24.0,
-      "sl_aqi_est": 25,
+      "sl_aqi": 27.0,
+      "sl_aqi_est": 27,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
       "temperature": -127.0,
-      "timestamp": 1776670200000,
-      "timestamp_iso_utc": "2026-04-20T07:30:00Z",
-      "us_aqi": 80.0
+      "timestamp": 1776673800000,
+      "timestamp_iso_utc": "2026-04-20T08:30:00Z",
+      "us_aqi": 66.0
     }
   ]
 }
