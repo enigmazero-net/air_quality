@@ -1,35 +1,35 @@
 {
   "count": 4,
-  "fetched_at_utc": "2026-04-20T12:55:48.659681Z",
+  "fetched_at_utc": "2026-04-20T14:46:30.820265Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
-      "co2": 419.269,
+      "co2": 418.428,
       "description": "Badulla",
       "latitude": 6.990113,
       "longitude": 81.05676,
       "meta_device_id": "aq02",
       "name": "Badulla ",
-      "now_cast": 4.1517,
-      "now_cast_timestamp": 1776317400000,
-      "pm10": 15.9074,
-      "pm100": 22.037,
-      "pm25": 19.6654,
+      "now_cast": 20.4492,
+      "now_cast_timestamp": 1776691800000,
+      "pm10": 14.4074,
+      "pm100": 20.5556,
+      "pm25": 18.8175,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 39.0,
-      "sl_aqi_est": 39,
+      "sl_aqi": 37.0,
+      "sl_aqi_est": 38,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 27.7218,
-      "timestamp": 1776684600000,
-      "timestamp_iso_utc": "2026-04-20T11:30:00Z",
-      "us_aqi": 17.0
+      "temperature": 25.3293,
+      "timestamp": 1776691800000,
+      "timestamp_iso_utc": "2026-04-20T13:30:00Z",
+      "us_aqi": 68.0
     },
     {
       "co2": -1.0,
@@ -38,29 +38,29 @@
       "longitude": 80.64585,
       "meta_device_id": "Dav00002",
       "name": "Dambulla",
-      "now_cast": 22.9882,
-      "now_cast_timestamp": 1776684600000,
-      "pm10": 10.2642,
-      "pm100": 15.8868,
-      "pm25": 14.1496,
+      "now_cast": 13.9136,
+      "now_cast_timestamp": 1776691800000,
+      "pm10": 3.19512,
+      "pm100": 5.46341,
+      "pm25": 4.49097,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 28.0,
-      "sl_aqi_est": 28,
+      "sl_aqi": 9.0,
+      "sl_aqi_est": 9,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 26.8343,
-      "timestamp": 1776684600000,
-      "timestamp_iso_utc": "2026-04-20T11:30:00Z",
-      "us_aqi": 74.0
+      "temperature": 27.0854,
+      "timestamp": 1776691800000,
+      "timestamp_iso_utc": "2026-04-20T13:30:00Z",
+      "us_aqi": 55.0
     },
     {
-      "co2": 712.763,
+      "co2": 503.03,
       "description": "Kohuwla",
       "latitude": 6.870283,
       "longitude": 79.8771,
@@ -68,23 +68,23 @@
       "name": "Kohuwla ",
       "now_cast": 3.78269,
       "now_cast_timestamp": 1776673800000,
-      "pm10": 0.880952,
-      "pm100": 1.35714,
-      "pm25": 1.1841,
+      "pm10": 3.89744,
+      "pm100": 5.28205,
+      "pm25": 4.56971,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 2.0,
-      "sl_aqi_est": 2,
+      "sl_aqi": 9.0,
+      "sl_aqi_est": 9,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
       "temperature": -127.0,
-      "timestamp": 1776684600000,
-      "timestamp_iso_utc": "2026-04-20T11:30:00Z",
+      "timestamp": 1776691800000,
+      "timestamp_iso_utc": "2026-04-20T13:30:00Z",
       "us_aqi": 15.0
     },
     {
@@ -94,26 +94,26 @@
       "longitude": 80.02924,
       "meta_device_id": "NALLUR0000211",
       "name": "Nallur ",
-      "now_cast": 15.3997,
-      "now_cast_timestamp": 1776684600000,
-      "pm10": 13.9107,
-      "pm100": 20.0714,
-      "pm25": 18.1999,
+      "now_cast": 23.7327,
+      "now_cast_timestamp": 1776691800000,
+      "pm10": 21.3396,
+      "pm100": 37.0755,
+      "pm25": 31.0848,
       "pm25_band_range": [
-        0.0,
-        25.0
+        25.1,
+        50.0
       ],
-      "sl_aqi": 36.0,
-      "sl_aqi_est": 36,
-      "sl_aqi_label": "Good",
+      "sl_aqi": 62.0,
+      "sl_aqi_est": 63,
+      "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
-        0,
-        50
+        51,
+        100
       ],
       "temperature": -127.0,
-      "timestamp": 1776684600000,
-      "timestamp_iso_utc": "2026-04-20T11:30:00Z",
-      "us_aqi": 58.0
+      "timestamp": 1776691800000,
+      "timestamp_iso_utc": "2026-04-20T13:30:00Z",
+      "us_aqi": 75.0
     }
   ]
 }
