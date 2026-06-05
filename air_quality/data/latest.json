@@ -1,6 +1,6 @@
 {
   "count": 12,
-  "fetched_at_utc": "2026-06-05T20:52:49.591387Z",
+  "fetched_at_utc": "2026-06-05T22:11:55.561595Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
@@ -94,11 +94,39 @@
       "longitude": 80.64585,
       "meta_device_id": "Dav00002",
       "name": "Dambulla",
-      "now_cast": 4.82103,
-      "now_cast_timestamp": 1780687800000,
-      "pm10": 3.81667,
-      "pm100": 6.11667,
-      "pm25": 4.95193,
+      "now_cast": 4.39066,
+      "now_cast_timestamp": 1780691400000,
+      "pm10": 3.03333,
+      "pm100": 5.18333,
+      "pm25": 4.0561,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 8.0,
+      "sl_aqi_est": 8,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": 31.205,
+      "timestamp": 1780691400000,
+      "timestamp_iso_utc": "2026-06-05T20:30:00Z",
+      "us_aqi": 18.0
+    },
+    {
+      "co2": 504.061,
+      "description": "Hambantota",
+      "latitude": 6.1242557,
+      "longitude": 81.12618,
+      "meta_device_id": "verit03",
+      "name": "Hambantota ",
+      "now_cast": 5.14802,
+      "now_cast_timestamp": 1780691400000,
+      "pm10": 3.30508,
+      "pm100": 5.67797,
+      "pm25": 5.23173,
       "pm25_band_range": [
         0.0,
         25.0
@@ -110,66 +138,38 @@
         0,
         50
       ],
-      "temperature": 30.9522,
-      "timestamp": 1780687800000,
-      "timestamp_iso_utc": "2026-06-05T19:30:00Z",
-      "us_aqi": 20.0
-    },
-    {
-      "co2": 506.436,
-      "description": "Hambantota",
-      "latitude": 6.1242557,
-      "longitude": 81.12618,
-      "meta_device_id": "verit03",
-      "name": "Hambantota ",
-      "now_cast": 5.0662,
-      "now_cast_timestamp": 1780687800000,
-      "pm10": 3.56667,
-      "pm100": 5.38333,
-      "pm25": 4.88349,
-      "pm25_band_range": [
-        0.0,
-        25.0
-      ],
-      "sl_aqi": 9.0,
-      "sl_aqi_est": 10,
-      "sl_aqi_label": "Good",
-      "sl_aqi_range": [
-        0,
-        50
-      ],
-      "temperature": 30.5405,
-      "timestamp": 1780687800000,
-      "timestamp_iso_utc": "2026-06-05T19:30:00Z",
+      "temperature": 30.5383,
+      "timestamp": 1780691400000,
+      "timestamp_iso_utc": "2026-06-05T20:30:00Z",
       "us_aqi": 21.0
     },
     {
-      "co2": 461.999,
+      "co2": 463.372,
       "description": "Jaffna",
       "latitude": 9.737238,
       "longitude": 80.019455,
       "meta_device_id": "JAFPRIVAT0001",
       "name": "Jaffna",
-      "now_cast": 4.70801,
-      "now_cast_timestamp": 1780687800000,
-      "pm10": 2.0,
-      "pm100": 4.53333,
-      "pm25": 4.6689,
+      "now_cast": 6.06333,
+      "now_cast_timestamp": 1780691400000,
+      "pm10": 4.25,
+      "pm100": 7.98333,
+      "pm25": 7.41813,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 9.0,
-      "sl_aqi_est": 9,
+      "sl_aqi": 15.0,
+      "sl_aqi_est": 15,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 31.1802,
-      "timestamp": 1780687800000,
-      "timestamp_iso_utc": "2026-06-05T19:30:00Z",
-      "us_aqi": 19.0
+      "temperature": 30.9515,
+      "timestamp": 1780691400000,
+      "timestamp_iso_utc": "2026-06-05T20:30:00Z",
+      "us_aqi": 25.0
     },
     {
       "co2": 719.106,
