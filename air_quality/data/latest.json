@@ -1,38 +1,38 @@
 {
   "count": 17,
-  "fetched_at_utc": "2026-07-21T23:35:30.618313Z",
+  "fetched_at_utc": "2026-07-22T01:02:29.090314Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
-      "co2": 476.764,
+      "co2": 465.381,
       "description": "Anuradhapura",
       "latitude": 8.33356,
       "longitude": 80.41497,
       "meta_device_id": "NEAANU00000001",
       "name": "Anuradhapura",
-      "now_cast": 27.0881,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 14.25,
-      "pm100": 28.9821,
-      "pm25": 19.6737,
+      "now_cast": 22.6254,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 15.8167,
+      "pm100": 32.05,
+      "pm25": 21.7087,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 39.0,
-      "sl_aqi_est": 39,
+      "sl_aqi": 43.0,
+      "sl_aqi_est": 43,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 30.7143,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 82.0
+      "temperature": 30.1763,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 73.0
     },
     {
-      "co2": 475.009,
+      "co2": 475.967,
       "description": "Badulla",
       "latitude": 6.990113,
       "longitude": 81.05676,
@@ -40,80 +40,80 @@
       "name": "Badulla ",
       "now_cast": 49.7466,
       "now_cast_timestamp": 1784604600000,
-      "pm10": 37.1,
-      "pm100": 60.45,
-      "pm25": 50.4855,
+      "pm10": 30.3667,
+      "pm100": 53.35,
+      "pm25": 42.063,
       "pm25_band_range": [
-        50.1,
-        75.0
+        25.1,
+        50.0
       ],
-      "sl_aqi": 101.0,
-      "sl_aqi_est": 102,
-      "sl_aqi_label": "Unhealthy for Sensitive Groups",
+      "sl_aqi": 84.0,
+      "sl_aqi_est": 84,
+      "sl_aqi_label": "Moderate",
       "sl_aqi_range": [
-        101,
-        150
+        51,
+        100
       ],
-      "temperature": 23.4917,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
+      "temperature": 22.3977,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
       "us_aqi": 136.0
     },
     {
-      "co2": 483.524,
+      "co2": 493.885,
       "description": "aqbatticaloa001",
       "latitude": 7.7124324,
       "longitude": 81.7014,
       "meta_device_id": "BATTI000001",
       "name": "Batticaloa",
-      "now_cast": 10.8877,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 6.16364,
-      "pm100": 15.1455,
-      "pm25": 11.2649,
+      "now_cast": 11.511,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 6.13333,
+      "pm100": 15.2833,
+      "pm25": 11.6318,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 22.0,
+      "sl_aqi": 23.0,
       "sl_aqi_est": 23,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 29.37,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 45.0
+      "temperature": 29.204,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 48.0
     },
     {
-      "co2": 573.078,
+      "co2": 575.434,
       "description": "AQCOL000001",
       "latitude": 6.9056125,
       "longitude": 79.87293,
       "meta_device_id": "COL0000001",
       "name": "Colombo 07",
-      "now_cast": 19.0773,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 13.5636,
-      "pm100": 22.6545,
-      "pm25": 20.0857,
+      "now_cast": 18.5353,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 11.4333,
+      "pm100": 19.6833,
+      "pm25": 17.4769,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 40.0,
-      "sl_aqi_est": 40,
+      "sl_aqi": 34.0,
+      "sl_aqi_est": 35,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 30.6236,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 65.0
+      "temperature": 30.3713,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 64.0
     },
     {
       "co2": -1.0,
@@ -122,207 +122,67 @@
       "longitude": 80.64585,
       "meta_device_id": "Dav00002",
       "name": "Dambulla",
-      "now_cast": 14.9928,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 12.0727,
-      "pm100": 16.6364,
-      "pm25": 15.3364,
+      "now_cast": 16.5706,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 12.5833,
+      "pm100": 18.7667,
+      "pm25": 17.2451,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 30.0,
-      "sl_aqi_est": 31,
+      "sl_aqi": 34.0,
+      "sl_aqi_est": 34,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 30.5629,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 57.0
+      "temperature": 30.5677,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 60.0
     },
     {
-      "co2": 488.859,
+      "co2": 492.459,
       "description": "Hambantota",
       "latitude": 6.1242557,
       "longitude": 81.12618,
       "meta_device_id": "verit03",
       "name": "Hambantota ",
-      "now_cast": 13.0079,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 7.57627,
-      "pm100": 14.0508,
-      "pm25": 12.0474,
+      "now_cast": 14.0909,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 10.2712,
+      "pm100": 18.2712,
+      "pm25": 15.9317,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 24.0,
-      "sl_aqi_est": 24,
+      "sl_aqi": 31.0,
+      "sl_aqi_est": 32,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 29.3681,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 53.0
+      "temperature": 29.2869,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 55.0
     },
     {
-      "co2": 450.865,
+      "co2": 457.519,
       "description": "Jaffna",
       "latitude": 9.737238,
       "longitude": 80.019455,
       "meta_device_id": "JAFPRIVAT0001",
       "name": "Jaffna",
-      "now_cast": 6.97319,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 4.56364,
-      "pm100": 5.21818,
-      "pm25": 5.39735,
-      "pm25_band_range": [
-        0.0,
-        25.0
-      ],
-      "sl_aqi": 10.0,
-      "sl_aqi_est": 11,
-      "sl_aqi_label": "Good",
-      "sl_aqi_range": [
-        0,
-        50
-      ],
-      "temperature": 30.7047,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 29.0
-    },
-    {
-      "co2": 479.4,
-      "description": "AQKegalle",
-      "latitude": 7.253432,
-      "longitude": 80.34929,
-      "meta_device_id": "Kegalle0001",
-      "name": "Kegalle",
-      "now_cast": 28.0269,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 17.875,
-      "pm100": 27.0625,
-      "pm25": 24.9596,
-      "pm25_band_range": [
-        0.0,
-        25.0
-      ],
-      "sl_aqi": 49.0,
-      "sl_aqi_est": 50,
-      "sl_aqi_label": "Good",
-      "sl_aqi_range": [
-        0,
-        50
-      ],
-      "temperature": 28.7916,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 84.0
-    },
-    {
-      "co2": 449.831,
-      "description": "Kohuwla",
-      "latitude": 6.870283,
-      "longitude": 79.8771,
-      "meta_device_id": "kohu01",
-      "name": "Kohuwla ",
-      "now_cast": 2.53788,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 1.86441,
-      "pm100": 2.69492,
-      "pm25": 2.37492,
-      "pm25_band_range": [
-        0.0,
-        25.0
-      ],
-      "sl_aqi": 5.0,
-      "sl_aqi_est": 5,
-      "sl_aqi_label": "Good",
-      "sl_aqi_range": [
-        0,
-        50
-      ],
-      "temperature": 30.6153,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 10.0
-    },
-    {
-      "co2": 502.283,
-      "description": "AQKolonnawa",
-      "latitude": 6.932626,
-      "longitude": 79.89155,
-      "meta_device_id": "Colombo00003",
-      "name": "Kolonnawa",
-      "now_cast": 15.5912,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 10.5333,
-      "pm100": 17.5833,
-      "pm25": 15.3921,
-      "pm25_band_range": [
-        0.0,
-        25.0
-      ],
-      "sl_aqi": 30.0,
-      "sl_aqi_est": 31,
-      "sl_aqi_label": "Good",
-      "sl_aqi_range": [
-        0,
-        50
-      ],
-      "temperature": 29.2457,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 58.0
-    },
-    {
-      "co2": 497.768,
-      "description": "AQKurunegala",
-      "latitude": 7.493869,
-      "longitude": 80.367805,
-      "meta_device_id": "Kurunegala001",
-      "name": "Kurunegala",
-      "now_cast": 8.39913,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 7.24074,
-      "pm100": 123.127,
-      "pm25": 8.05564,
-      "pm25_band_range": [
-        0.0,
-        25.0
-      ],
-      "sl_aqi": 16.0,
-      "sl_aqi_est": 16,
-      "sl_aqi_label": "Good",
-      "sl_aqi_range": [
-        0,
-        50
-      ],
-      "temperature": 29.95,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 34.0
-    },
-    {
-      "co2": 435.461,
-      "description": "Nuwaraeliya",
-      "latitude": 6.9681544,
-      "longitude": 80.77159,
-      "meta_device_id": "Nuwaraeliya0010",
-      "name": "Nuwaraeliya",
-      "now_cast": 5.35242,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 3.47273,
-      "pm100": 6.16364,
-      "pm25": 5.10935,
+      "now_cast": 8.05745,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 3.03333,
+      "pm100": 5.33333,
+      "pm25": 5.2027,
       "pm25_band_range": [
         0.0,
         25.0
@@ -334,66 +194,206 @@
         0,
         50
       ],
-      "temperature": 20.2444,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
+      "temperature": 30.748,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 33.0
+    },
+    {
+      "co2": 480.348,
+      "description": "AQKegalle",
+      "latitude": 7.253432,
+      "longitude": 80.34929,
+      "meta_device_id": "Kegalle0001",
+      "name": "Kegalle",
+      "now_cast": 24.4169,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 15.4,
+      "pm100": 23.7167,
+      "pm25": 21.334,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 42.0,
+      "sl_aqi_est": 43,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": 28.2202,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 77.0
+    },
+    {
+      "co2": 433.544,
+      "description": "Kohuwla",
+      "latitude": 6.870283,
+      "longitude": 79.8771,
+      "meta_device_id": "kohu01",
+      "name": "Kohuwla ",
+      "now_cast": 2.41033,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 1.66102,
+      "pm100": 3.11864,
+      "pm25": 2.21152,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 4.0,
+      "sl_aqi_est": 4,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": 30.3763,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 10.0
+    },
+    {
+      "co2": 517.321,
+      "description": "AQKolonnawa",
+      "latitude": 6.932626,
+      "longitude": 79.89155,
+      "meta_device_id": "Colombo00003",
+      "name": "Kolonnawa",
+      "now_cast": 15.5377,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 10.0333,
+      "pm100": 17.0833,
+      "pm25": 15.7131,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 31.0,
+      "sl_aqi_est": 31,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": 28.7678,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 58.0
+    },
+    {
+      "co2": 517.489,
+      "description": "AQKurunegala",
+      "latitude": 7.493869,
+      "longitude": 80.367805,
+      "meta_device_id": "Kurunegala001",
+      "name": "Kurunegala",
+      "now_cast": 9.56857,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 8.76667,
+      "pm100": 10.4667,
+      "pm25": 9.45576,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 19.0,
+      "sl_aqi_est": 19,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": 29.95,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 39.0
+    },
+    {
+      "co2": 417.462,
+      "description": "Nuwaraeliya",
+      "latitude": 6.9681544,
+      "longitude": 80.77159,
+      "meta_device_id": "Nuwaraeliya0010",
+      "name": "Nuwaraeliya",
+      "now_cast": 5.4628,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 3.5,
+      "pm100": 6.33333,
+      "pm25": 5.44481,
+      "pm25_band_range": [
+        0.0,
+        25.0
+      ],
+      "sl_aqi": 11.0,
+      "sl_aqi_est": 11,
+      "sl_aqi_label": "Good",
+      "sl_aqi_range": [
+        0,
+        50
+      ],
+      "temperature": 19.3452,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
       "us_aqi": 22.0
     },
     {
-      "co2": 533.638,
+      "co2": 539.604,
       "description": "aqpolonnaruwa001",
       "latitude": 7.9132895,
       "longitude": 81.04993,
       "meta_device_id": "polonnaruwa0001",
       "name": "Polonnaruwa",
-      "now_cast": 7.28291,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 3.3,
-      "pm100": 7.63333,
-      "pm25": 6.6148,
+      "now_cast": 6.42811,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 3.01667,
+      "pm100": 7.41667,
+      "pm25": 6.16743,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 13.0,
-      "sl_aqi_est": 13,
+      "sl_aqi": 12.0,
+      "sl_aqi_est": 12,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 28.5343,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 30.0
+      "temperature": 28.6252,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 26.0
     },
     {
-      "co2": 467.886,
+      "co2": 469.027,
       "description": null,
       "latitude": 8.028199,
       "longitude": 79.84147,
       "meta_device_id": "NEA8000006",
       "name": "Puttalam",
-      "now_cast": 17.4322,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 8.93333,
-      "pm100": 16.9333,
-      "pm25": 13.1412,
+      "now_cast": 16.5231,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 10.6949,
+      "pm100": 21.3559,
+      "pm25": 15.814,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 26.0,
-      "sl_aqi_est": 26,
+      "sl_aqi": 31.0,
+      "sl_aqi_est": 32,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 30.5618,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 62.0
+      "temperature": 30.2224,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 60.0
     },
     {
       "co2": -1.0,
@@ -430,26 +430,26 @@
       "longitude": 81.2028,
       "meta_device_id": "NBROTRINCOMALEE",
       "name": "Trincomalee",
-      "now_cast": 20.7998,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 16.4167,
-      "pm100": 25.1,
-      "pm25": 23.0026,
+      "now_cast": 21.5315,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 15.2727,
+      "pm100": 488.473,
+      "pm25": 20.9501,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 45.0,
-      "sl_aqi_est": 46,
+      "sl_aqi": 41.0,
+      "sl_aqi_est": 42,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 27.1228,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 69.0
+      "temperature": 26.4207,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 71.0
     },
     {
       "co2": -1.0,
@@ -458,26 +458,26 @@
       "longitude": 80.49619,
       "meta_device_id": "VAVUNIYA0021",
       "name": "Vavuniya",
-      "now_cast": 9.41043,
-      "now_cast_timestamp": 1784669400000,
-      "pm10": 3.96226,
-      "pm100": 22.0741,
-      "pm25": 5.54451,
+      "now_cast": 8.41568,
+      "now_cast_timestamp": 1784676600000,
+      "pm10": 19.3667,
+      "pm100": 19.65,
+      "pm25": 8.96812,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 11.0,
-      "sl_aqi_est": 11,
+      "sl_aqi": 19.0,
+      "sl_aqi_est": 18,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 34.352,
-      "timestamp": 1784669400000,
-      "timestamp_iso_utc": "2026-07-21T21:30:00Z",
-      "us_aqi": 39.0
+      "temperature": 34.3062,
+      "timestamp": 1784676600000,
+      "timestamp_iso_utc": "2026-07-21T23:30:00Z",
+      "us_aqi": 35.0
     }
   ]
 }
