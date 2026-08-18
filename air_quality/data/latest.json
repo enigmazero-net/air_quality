@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "fetched_at_utc": "2026-08-18T21:17:53.680921Z",
+  "count": 12,
+  "fetched_at_utc": "2026-08-18T21:41:44.828129Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
@@ -144,32 +144,32 @@
       "us_aqi": 87.0
     },
     {
-      "co2": 418.14,
+      "co2": 419.153,
       "description": "Kohuwla",
       "latitude": 6.870283,
       "longitude": 79.8771,
       "meta_device_id": "kohu01",
       "name": "Kohuwla ",
-      "now_cast": 3.69412,
-      "now_cast_timestamp": 1787081400000,
-      "pm10": 2.56667,
-      "pm100": 3.71667,
-      "pm25": 3.42021,
+      "now_cast": 3.09566,
+      "now_cast_timestamp": 1787085000000,
+      "pm10": 2.11864,
+      "pm100": 3.42373,
+      "pm25": 2.51187,
       "pm25_band_range": [
         0.0,
         25.0
       ],
-      "sl_aqi": 7.0,
-      "sl_aqi_est": 7,
+      "sl_aqi": 5.0,
+      "sl_aqi_est": 5,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 31.152,
-      "timestamp": 1787081400000,
-      "timestamp_iso_utc": "2026-08-18T19:30:00Z",
-      "us_aqi": 15.0
+      "temperature": 31.1629,
+      "timestamp": 1787085000000,
+      "timestamp_iso_utc": "2026-08-18T20:30:00Z",
+      "us_aqi": 12.0
     },
     {
       "co2": 418.013,
@@ -282,34 +282,6 @@
       "timestamp": 1786944600000,
       "timestamp_iso_utc": "2026-08-17T05:30:00Z",
       "us_aqi": 45.0
-    },
-    {
-      "co2": -1.0,
-      "description": "Rathanapura",
-      "latitude": 6.7137103,
-      "longitude": 80.38062,
-      "meta_device_id": "NEA8000013",
-      "name": "Rathnapura ",
-      "now_cast": 3.04159,
-      "now_cast_timestamp": 1786915800000,
-      "pm10": 1.48333,
-      "pm100": 4.46667,
-      "pm25": 3.89136,
-      "pm25_band_range": [
-        0.0,
-        25.0
-      ],
-      "sl_aqi": 8.0,
-      "sl_aqi_est": 8,
-      "sl_aqi_label": "Good",
-      "sl_aqi_range": [
-        0,
-        50
-      ],
-      "temperature": 28.4862,
-      "timestamp": 1786915800000,
-      "timestamp_iso_utc": "2026-08-16T21:30:00Z",
-      "us_aqi": 12.0
     },
     {
       "co2": -1.0,
