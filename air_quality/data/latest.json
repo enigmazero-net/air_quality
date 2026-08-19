@@ -1,35 +1,35 @@
 {
   "count": 1,
-  "fetched_at_utc": "2026-08-19T08:01:09.110907Z",
+  "fetched_at_utc": "2026-08-19T08:50:13.849217Z",
   "source": "https://aq.nbro.gov.lk/invoker.php",
   "stations": [
     {
-      "co2": 536.129,
+      "co2": 540.173,
       "description": "Kohuwla",
       "latitude": 6.870283,
       "longitude": 79.8771,
       "meta_device_id": "kohu01",
       "name": "Kohuwla ",
-      "now_cast": 1.82638,
-      "now_cast_timestamp": 1787121000000,
-      "pm10": 1.0,
-      "pm100": 1.88136,
-      "pm25": 1.19458,
+      "now_cast": 1.55608,
+      "now_cast_timestamp": 1787124600000,
+      "pm10": 0.8,
+      "pm100": 1.61667,
+      "pm25": 1.2863,
       "pm25_band_range": [
         0.0,
         25.0
       ],
       "sl_aqi": 2.0,
-      "sl_aqi_est": 2,
+      "sl_aqi_est": 3,
       "sl_aqi_label": "Good",
       "sl_aqi_range": [
         0,
         50
       ],
-      "temperature": 31.941,
-      "timestamp": 1787121000000,
-      "timestamp_iso_utc": "2026-08-19T06:30:00Z",
-      "us_aqi": 7.0
+      "temperature": 32.1535,
+      "timestamp": 1787124600000,
+      "timestamp_iso_utc": "2026-08-19T07:30:00Z",
+      "us_aqi": 6.0
     }
   ]
 }
